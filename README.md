@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm [Pratik!](https://rajpratik71.github.io) 👋
+
+<a href="https://twitter.com/rajpratik71">
+  <img align="left" alt="Pratik raj | Twitter" width="21px" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/twitter.svg" />
+</a>
+
+<br />
+<br />
 
 - 📫 How to reach me: Everywhere on Internet @rajpratik71
 - 😄 Pronouns: He/Him :man:
