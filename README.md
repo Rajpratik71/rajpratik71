@@ -122,3 +122,5 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
+
+<img src="https://github.com/rajpratik71/rajpratik71/blob/master/images/stat.svg" alt="My Activity"/>
