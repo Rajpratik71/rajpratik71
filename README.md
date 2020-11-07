@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <td>
 
 <a href="https://www.youracclaim.com/badges/a6b0ec1d-65ca-4d3d-bfb8-b677a57e1838/public_url">
-  <img alt="Infrastructure Foundations" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/Oracle-Certification-badge_OC-Associate600X600.png" />
+  <img alt="Infrastructure Foundations" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" />
 </a>
 
 [Infrastructure Foundations](https://www.youracclaim.com/badges/a6b0ec1d-65ca-4d3d-bfb8-b677a57e1838/public_url)
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <td>
 
 <a href="https://www.youracclaim.com/badges/68539059-a7f3-49a0-8368-8c9e267fc090/public_url">
-  <img alt="Cloud Operations" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/Oracle-Certification-badge_OC-Associate600X600.png" />
+  <img alt="Cloud Operations" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/09_Associate_OCI_Cloud_Operations_2019.png" />
 </a>
 
 [Cloud Operations](https://www.youracclaim.com/badges/68539059-a7f3-49a0-8368-8c9e267fc090/public_url)
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <td>
 
 <a href="https://www.youracclaim.com/badges/79230558-3219-4d59-a97d-6e245c83319e/public_url">
-  <img alt="Infrastructure Developer" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/Oracle-Certification-badge_OC-Associate600X600.png" />
+  <img alt="Infrastructure Developer" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/03_Oracle-Cloud_Infrastructure_Developer_Associate.png" />
 </a>
 
 [Infrastructure Developer](https://www.youracclaim.com/badges/79230558-3219-4d59-a97d-6e245c83319e/public_url)
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <td>
 
 <a href="https://www.youracclaim.com/badges/6646230c-43e0-458a-a105-d7920f2986c2/public_url">
-  <img alt="Architect Associate" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/Oracle-Certification-badge_OC-Associate600X600.png" />
+  <img alt="Architect Associate" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/08_Associate_OCI_Architect_2019.png" />
 </a>
 
 [Architect Associate](https://www.youracclaim.com/badges/6646230c-43e0-458a-a105-d7920f2986c2/public_url)
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 <td>
 
 <a href="https://www.youracclaim.com/badges/5ebede9a-353b-4e39-ab9f-869e16c24bec/public_url">
-  <img alt="Architect Professional" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/Oracle-Certification-badge_OC-Professional600X600.png" />
+  <img alt="Architect Professional" width="100" src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/assets/11_OCI_Architect_Professional_2019.png" />
 </a>
 
 [Architect Professional](https://www.youracclaim.com/badges/5ebede9a-353b-4e39-ab9f-869e16c24bec/public_url)
