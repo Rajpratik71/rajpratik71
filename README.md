@@ -69,6 +69,15 @@ Here are some ideas to get you started:
 
 <br />
 
+### Badges
+
+<a href="https://www.credly.com/badges/90d2c073-7777-47b8-b8c9-8c89aa4b7587/public_url">
+  <img alt="ONAP 2022 Contributor Badge" width="100" src="https://images.credly.com/images/7c795b20-1f71-48da-8e2d-1c6ec8b643c9/image.png" />
+</a>
+
+[ONAP 2022 Contributor Badge](https://www.credly.com/badges/90d2c073-7777-47b8-b8c9-8c89aa4b7587/public_url)
+
+
 ### Certifications
 
 <br />
