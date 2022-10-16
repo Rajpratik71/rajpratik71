@@ -27,6 +27,9 @@
 
 - 📫 How to reach me: Everywhere on Internet @rajpratik71
 - 😄 Pronouns: He/Him :man:
+- Love FOSS and everything Cloud-Native
+- Interest vary from Linux @Semicode-OS .github.io, Virtualization , Networking , Cloud , Telecom, Stroage & Security
+- Contribute to open-source where-ever I can in free time and on weekends
 
 <!--
 **Rajpratik71/rajpratik71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
