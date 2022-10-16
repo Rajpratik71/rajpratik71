@@ -28,7 +28,7 @@
 - 📫 How to reach me: Everywhere on Internet @rajpratik71
 - 😄 Pronouns: He/Him :man:
 - Love FOSS and everything Cloud-Native
-- Interest vary from Linux @Semicode-OS .github.io, Virtualization , Networking , Cloud , Telecom, Stroage & Security
+- Interest vary from Linux @Semicode-OS .github.io, Virtualization , Networking , Cloud , Telecom, Stroage, Security and Observability (Monitoring, Logging and Tracing)
 - Contribute to open-source where-ever I can in free time and on weekends
 - See my contributions at @linuxfoundation Contributor Dashboard at https://openprofile.dev/profile/Rajpratik71 
 
