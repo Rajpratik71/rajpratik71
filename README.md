@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 
 [ONAP 2022 Contributor Badge](https://www.credly.com/badges/90d2c073-7777-47b8-b8c9-8c89aa4b7587/public_url)
 
+[![@Pratik's Holopin board](https://holopin.io/api/user/board?user=rajpratik71)](https://holopin.io/@rajpratik71)
 
 ### Certifications
 
