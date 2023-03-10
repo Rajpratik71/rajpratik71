@@ -74,6 +74,10 @@ Here are some ideas to get you started:
 
 <br />
 
+### GitHub Trophies
+
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=rajpratik71&column=7" alt="GitHub Trophies" /></a>
+
 ### Badges
 
 <a href="https://www.credly.com/badges/90d2c073-7777-47b8-b8c9-8c89aa4b7587/public_url">
